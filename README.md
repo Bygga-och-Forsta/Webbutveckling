@@ -2,7 +2,7 @@
 
 Bygga och Förstå är en serie med häften som ska vara till hjälp inom
 undervisningen Dator- och kommunikationsteknik på gymnasiet och försöker
-uppfylla till de flesta krav som Skolverket ställer.
+uppfylla de flesta krav som Skolverket ställer.
 Notera att komplettering behövs (vi tar gärna emot dina förbättringar).
 
 Häftena är skrivna i markdown och där det behövs, blandas LaTeX in.
@@ -12,9 +12,9 @@ Creative Commons Non-Commercial Share Alike 4.0 och därmed kan alla använda
 häftet för icke kommersiella ändamål, man får även rättigheten att redigera
 den (det finns vissa villkor).
 
-Dessa häften är skrivna på grund av att det existerande material ligger sin
-fokus för ofta på teorin. Med dessa häften vill vi visa eleven hur det fungerar
-i praktiken.
+Dessa häften är skrivna på grund av att det existerande material fokuserar sig
+för ofta på teorin. Med dessa häften vill vi visa eleven hur det fungerar i
+praktiken genom att bygga en applikation / nätverk med mera själv.
 
 Om ni hittar något i häftet som inte är korrekt (felaktig information, stavfel,
 grammatiska fel, föråldrad innehåll mm.), tar jag gärna emot eran feedback
