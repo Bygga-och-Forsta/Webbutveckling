@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    background-color: #F9F9F9;
+    font-family: 'Roboto';
+    color: #212121;
+}
+
+#header-top {
+    background-color: #FF5722;
+	height: 60px;
+	width: 100%;
+    box-shadow: 0 1px 10px black;
+}
+
+#logo {
+    font-family: 'Roboto';
+    padding-top: 11px;
+    padding-left: 30px;
+    color: white;
+}
+
+#logo > a {
+    font-family: 'Roboto';
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    position: absolute;
+    top: 21px;
+    left: 300px;
+}
+
+nav > ul > li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    color: white;
+    padding: 0 25px;
+    text-decoration: none;
+}
+
+nav > ul > li > a:hover {
+    color: black;
+    padding: 0 25px;
+    text-decoration: none;
+}
+
+#page-container {
+    max-width: 800px;
+    height: 100%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+article {
+    border: 1px dotted black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.article-title {
+    float: left;
+}
+
+.actions {
+    float: right;
+    text-decoration: none;
+    padding-top: 5px;
+    color: black;
+}
+
+.content {
+    padding-top: 10px;
+    clear: both;
+}
+
+.actions > a {
+    color: black;
+}
+
+.date {
+    font-weight: bold;
+}
+
+#footer-bottom {
+    text-align: right;
+}
